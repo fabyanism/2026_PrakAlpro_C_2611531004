@@ -1,4 +1,4 @@
-# Buat file dengan nama match_case1.py
+# Buat file dengan nama match_case1_2611531004.py
 # Buat program untuk match case
 # Nama variabel ditambah 4 digit terakhir contoh: ipk_1004
 # Program ini menggunakan fungsi input()
