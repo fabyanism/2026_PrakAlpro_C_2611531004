@@ -1,4 +1,4 @@
-# Buat file dengan nama tugas5_2611531004.py
+# Buat file dengan nama latihan5_2611531004.py
 # Buat program untuk perulangan for dalam python
 # Nama variabel ditambah 4 digit nim terakhir contoh: ulang_1004
 # Program ini menggunakan fungsi input()
