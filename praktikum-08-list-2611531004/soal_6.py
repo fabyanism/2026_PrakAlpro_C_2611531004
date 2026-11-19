@@ -3,7 +3,7 @@ daily_limit = 30000 + LAST_DIGIT * 1000
 expenses = [31500, 42000, 33500, 36500, 29000, 38500, 34500]
 
 for i in range(7):
-    print(f"Day {i + 1}: {expenses[i]}")
+    print(f"Day {i + 1}: {expenses[i]}") 
 
 total = 0
 for expense in expenses:
